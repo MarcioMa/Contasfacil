@@ -1,2 +1,0 @@
-# Contasfacil
-Sistema de contas
